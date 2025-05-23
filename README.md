@@ -1,1 +1,1 @@
-# Ci-ncia-de-dados
+O nosso projeto é sobre o impacto das horas de estudo no desempenho escolar, utilizamos técnicas e conceitos da Ciência de Dados para coletar, analisar e organizar dados de uma entrevista e transformarmos em uma apresentação clara, coerente, e com informações reais.
